@@ -1,2 +1,3 @@
-# INC-Navrh-cislicovych-systemu
-2. semestr
+# [INC] Návrh číslicových systému
+## 2017/18 - 2. semestr
+### Projekt - Přístupový terminál - 20/20 bodů
